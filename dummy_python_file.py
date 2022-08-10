@@ -6,6 +6,13 @@ a = 0
 b = 5
 c = 10
 d = a + b + c
+
+a = 0
+b = 5
+c = 10
+d = a + b + c
+print("Value of d :", d)
+
 print("Value of d :", d)
 a = 0
 b = 5
@@ -19,7 +26,4 @@ c = 10
 d = a + b + c
 print("Value of d :", d)
 
-a = 0
-b = 5
-c = 10
-d = a + b + c
+
