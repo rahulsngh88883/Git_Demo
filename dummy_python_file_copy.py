@@ -1,8 +1,10 @@
 import os
 import glob
-print("Still on Last commit")
-a = 0
-b = 1
-c = a + b
-print("C : ", c)
+<<<<<<< HEAD
+=======
+print("Hello World 1")
+inp_path = "C://Rahul"
+input_path_glob = glob.glob(inp_path + "/*.jpg")
+
 print("Hello World")
+>>>>>>> b0706cc86ac4ebf6e28dad1344d0e22bbc1dda22
